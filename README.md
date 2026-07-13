@@ -1,7 +1,6 @@
 # Student-Management-System
 
 students = []
-
 #function to calculate grade
 def calculate_grade(marks):
     if marks>=90:
